@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rulingbird
+- 👋 Hi, I’m Yasin
 - 👀 I’m interested in learing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
